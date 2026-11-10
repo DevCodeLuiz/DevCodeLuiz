@@ -52,8 +52,6 @@ Become a professional software developer, improve my technical skills, and build
 ---
 
 
-## 📊 GitHub Statistics
-
 
 ## 📊 GitHub Statistics
 
