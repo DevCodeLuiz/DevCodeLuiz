@@ -12,8 +12,6 @@ Welcome to my GitHub profile! I'm passionate about technology, software developm
 - Always exploring new technologies and improving my development skills.
 - Building projects to expand my portfolio and gain practical experience.
 
-## 🚀 Technologies & Tools
-
 
 ## 🚀 Technologies & Tools
 
