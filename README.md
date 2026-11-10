@@ -54,11 +54,14 @@ Become a professional software developer, improve my technical skills, and build
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevCodeLuiz&show_icons=true&theme=github_dark&hide_border=true" width="450" />
-</p>
+
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevCodeLuiz&layout=compact&theme=github_dark&hide_border=true" width="350" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevCodeLuiz&theme=github_dark" width="100%" />
 </p>
 
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DevCodeLuiz&theme=github_dark" width="350" />
+</p>
