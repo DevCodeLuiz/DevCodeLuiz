@@ -48,3 +48,13 @@ Become a professional software developer, improve my technical skills, and build
 ---
 
 **Always learning. Always building.**
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DevCodeLuiz&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevCodeLuiz&layout=compact&theme=github_dark&hide_border=true" height="180" />
+</p>
+
